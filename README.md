@@ -2,4 +2,4 @@
 Abstracting the images by using Artistic effects
 
 
-![plot](./ArtfulAbstraction/plot.png)
+![plot](./ArtfulAbstraction/FigureScreenShot.PNG)
