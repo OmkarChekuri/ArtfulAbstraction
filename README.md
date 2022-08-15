@@ -1,11 +1,13 @@
 # ArtfulAbstraction
-Abstracting the images by using Artistic effects
 
-#Tools
+An Interactive rendering program for stylized rendering of images to abstract the details.
+
+## Tools
 “HTML”, “CSS” 
 and “Javascript” using “WebGL 1.0” package. 
 
-#Introduction
+##Introduction
+
 Most of the computer Graphics research has focused on photorealistic rendering and not much on artistic rendering.
  Artistic rendering can be achieved by controlling the color, 
 shape, size of the brush strokes. In this paper I tried to replicate 
@@ -17,10 +19,12 @@ techniques described in the paper and achieved reasonable
 results with artistic elements. 
 
 
-#Results
+## Results
+
 ![plot](https://github.com/OmkarChekuri/ArtfulAbstraction/blob/master/FigureScreenShot.PNG)
 
-#Conclusion 
+## Conclusion 
+
 There is a fast development in the field of artistic rendering 
 due to its heavy use in films and media. A number of automatic 
 tools were developed and were more accessible than ever. The 
@@ -34,7 +38,7 @@ technique. By developing this tool, i got better insight into how
 shaders work in programmable pipeline in computer graphics 
 and how to do shader programming. 
 
-#References:
+## References:
 [1] [haelberli-1990a] Paul Haeberli, "Paint by Numbers: 
 Abstract Image Representations", Proceedings of SIGGRAPH 
 90, pp 207-214, 1990
