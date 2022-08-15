@@ -6,7 +6,7 @@ An Interactive rendering program for stylized rendering of images to abstract th
 “HTML”, “CSS” 
 and “Javascript” using “WebGL 1.0” package. 
 
-##Introduction
+## Introduction
 
 Most of the computer Graphics research has focused on photorealistic rendering and not much on artistic rendering.
  Artistic rendering can be achieved by controlling the color, 
